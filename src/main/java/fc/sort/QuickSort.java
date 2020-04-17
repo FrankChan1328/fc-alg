@@ -1,4 +1,4 @@
-package fc.qs;
+package fc.sort;
 
 public class QuickSort {
 	public static void QuickSort(int R[], int low, int high) {
