@@ -15,8 +15,7 @@ public class Dfs {
     static int a[] = { 1, 2, 4, 7 };
 
     public static void main(String[] args) {
-        System.out.println(dfs(0, 14));
-        System.out.println(dfs(0, 13));
+        System.out.println(dfs(0, 0));
     }
     
     /**
